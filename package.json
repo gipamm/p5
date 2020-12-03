@@ -1,0 +1,22 @@
+{
+  "name": "p5js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "David Makaridze",
+    "email": "david.makaridze@gipa.ge",
+    "url": "https://github.com/gipam"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gipamm/p5.git"
+  },
+  "dependencies": {
+    "p5": "^1.1.9"
+  }
+}
