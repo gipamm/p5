@@ -11,7 +11,7 @@ function draw(){
 
 function recCircle(cx, cy, r, level){
     circle( cx, cy, r * 2);
-    if (level < 5){
+    if (level < 12){
         recCircle(cx - r/2, cy, r/2, level+1);
         recCircle(cx + r/2, cy, r/2, level+1);
     }

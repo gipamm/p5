@@ -1,7 +1,7 @@
 let qw = 800;
-let k = 1.7;
-let e = 0.15;
-let minW = 4;
+let k = 1.2;
+let e = .15;
+let minW = 2;
 let l = 2;
 
 function setup() {

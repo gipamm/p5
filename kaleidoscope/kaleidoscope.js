@@ -1,5 +1,5 @@
 // Symmetry corresponding to the number of reflections. Change the number for different number of reflections
-let symmetry = 6;
+let symmetry = 5;
 
 let angle = 360 / symmetry;
 let saveButton, clearButton, mouseButton, keyboardButton;

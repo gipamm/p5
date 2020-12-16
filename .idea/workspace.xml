@@ -10,7 +10,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9abf2375-b446-4cf2-859a-323bd7b17bf4" name="Default Changelist" comment="Initial Commit" />
+    <list default="true" id="9abf2375-b446-4cf2-859a-323bd7b17bf4" name="Default Changelist" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/circles/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/circles/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dots/dots.js" beforeDir="false" afterPath="$PROJECT_DIR$/dots/dots.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaleidoscope/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/kaleidoscope/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kaleidoscope/kaleidoscope.js" beforeDir="false" afterPath="$PROJECT_DIR$/kaleidoscope/kaleidoscope.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quad/quads.js" beforeDir="false" afterPath="$PROJECT_DIR$/quad/quads.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -37,10 +44,26 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,7 +78,20 @@
       <workItem from="1606972763331" duration="69000" />
       <workItem from="1606972871456" duration="347000" />
       <workItem from="1606973229149" duration="73000" />
+      <workItem from="1606973305847" duration="4858000" />
+      <workItem from="1608060067087" duration="2458000" />
+      <workItem from="1608064579729" duration="5538000" />
+      <workItem from="1608098719999" duration="3634000" />
+      <workItem from="1608109617433" duration="1127000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1606973331048</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606973331048</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,5 +118,9 @@
       <screen x="0" y="26" width="1920" height="1054" />
     </state>
     <state x="464" y="175" width="992" height="734" key="SettingsEditor/0.26.1920.1054/1920.0.1920.1080@0.26.1920.1054" timestamp="1606973291860" />
+    <state x="555" y="276" width="810" height="532" key="Vcs.Push.Dialog.v2" timestamp="1606973342198">
+      <screen x="0" y="26" width="1920" height="1054" />
+    </state>
+    <state x="555" y="276" width="810" height="532" key="Vcs.Push.Dialog.v2/0.26.1920.1054/1920.0.1920.1080@0.26.1920.1054" timestamp="1606973342198" />
   </component>
 </project>
